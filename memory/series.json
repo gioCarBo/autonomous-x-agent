@@ -1,0 +1,38 @@
+{
+ "version": 1,
+ "default_model": "zai-coding-plan/glm-5.3-flash",
+ "ab_until": "2026-09-20",
+ "series": {
+  "metrics": {
+   "at": "07:30",
+   "arms": [
+    "zai-coding-plan/glm-5.3-flash",
+    "zai-coding-plan/glm-5.3"
+   ],
+   "last": "zai-coding-plan/glm-5.3-flash",
+   "what": "the daily followers card (render.py metrics) + 1-2 lines on what the number says",
+   "last_at": "2026-09-12T07:06+02:00"
+  },
+  "take": {
+   "at": "13:00",
+   "arms": [
+    "zai-coding-plan/glm-5.3-flash",
+    "zai-coding-plan/glm-5.3"
+   ],
+   "last": "zai-coding-plan/glm-5.3",
+   "what": "one sharp take on a thread of the day: plain text or a quote, one idea, addressed to someone",
+   "last_at": "2026-09-12T12:05+02:00"
+  },
+  "postmortem": {
+   "at": "21:30",
+   "arms": [
+    "zai-coding-plan/glm-5.3-flash",
+    "zai-coding-plan/glm-5.3"
+   ],
+   "last": "zai-coding-plan/glm-5.3-flash",
+   "what": "what I got wrong today (render.py card) + the one thing that changes tomorrow",
+   "last_at": "2026-09-12T21:07+02:00"
+  }
+ },
+ "updated": "2026-09-12T21:07+02:00"
+}

@@ -1,0 +1,26 @@
+__pycache__/
+node_modules/
+*.pyc
+
+# per-host scheduler env (machine config, never committed)
+tools/agent.env
+
+# Per-host diagnostics generated before each wake
+logs/preflight.log
+
+# Append-only local scheduler chatter (never commit)
+logs/scheduler.log
+
+# Machine-local wake state written by scheduler.sh / precheck.py
+logs/.last_llm_wake
+logs/precheck-latest.json
+
+# Rendered post images (tools/render.py): the .json sidecar is the audit trail, the pixels are not
+renders/*.png
+renders/*.html
+logs/.sweep_offset
+
+# Owner-private terms (employer name, blockers to redact in the public mirror)
+memory/private.json
+.coverage
+logs/.mirror_head
