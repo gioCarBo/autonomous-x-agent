@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+# Blocks any commit that modifies the safety floor after its initial creation.
+# The floor (.opencode/skills/safety-floor/) is the only non-evolvable
+# part of the system. Rejected attempts remain in the git reflog,
+# preserving the audit trail.
+
+set -euo pipefail
+
+PROTECTED='^\.opencode/skills/safety-floor/'
+
+if ! git rev-parse --verify -q HEAD >/dev/null; then
+  exit 0  # unborn branch: the initial scaffold commit creates the floor
+fi
+
+violations=0
+while IFS=$'\t' read -r status path; do
+  [[ "$path" =~ $PROTECTED ]] || continue
+  case "$status" in
+    D)
+      echo "SAFETY FLOOR VIOLATION — deletion of $path rejected."
+      violations=1
+      ;;
+    *)
+      head_blob=$(git rev-parse -q --verify "HEAD:$path" || true)
+      staged_blob=$(git ls-files -s -- "$path" | awk '{print $2}')
+      if [ "$head_blob" != "$staged_blob" ]; then
+        echo "SAFETY FLOOR VIOLATION — modification of $path rejected."
+        violations=1
+      fi
+      ;;
+  esac
+done < <(git diff --cached --name-status)
+
+if [ "$violations" -ne 0 ]; then
+  echo "This attempt is recorded in your reflog. Unstage the files to proceed."
+  exit 1
+fi
