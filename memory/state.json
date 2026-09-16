@@ -1,0 +1,1740 @@
+{
+  "version": 1,
+  "updated": "2026-09-16T09:21+02:00",
+  "caps": {
+    "date": "2026-09-16",
+    "replies": 5,
+    "originals": 1,
+    "reply_max": 25,
+    "original_max": 5,
+    "likes": 3,
+    "reposts": 0,
+    "follows": 0,
+    "like_max": 30,
+    "repost_max": 2,
+    "follow_max": 3,
+    "post_times": [
+      "2026-09-16T07:08+02:00"
+    ]
+  },
+  "author_hits": {
+    "date": "2026-09-16",
+    "hits": {
+      "_Daniel_Ospina": [
+        "https://x.com/GCBullGlasses/status/2099984418475495533",
+        "https://x.com/GCBullGlasses/status/2100045871488372798"
+      ],
+      "byzaidrais": [
+        "https://x.com/GCBullGlasses/status/2100030164360999371"
+      ],
+      "[account-12]": [
+        "https://x.com/GCBullGlasses/status/2100046047741464771",
+        "https://x.com/GCBullGlasses/status/2100090690357096520"
+      ],
+      "kamathematic": [
+        "https://x.com/GCBullGlasses/status/2100059814520930443"
+      ]
+    }
+  },
+  "targets": [
+    "karpathy",
+    "[account-4]",
+    "[account-7]",
+    "[account-1]",
+    "shreyas",
+    "[account-5]",
+    "jarredsumner",
+    "[account-2]",
+    "[account-8]",
+    "[account-12]",
+    "GregKamradt",
+    "[account-9]",
+    "[account-10]",
+    "[account-3]",
+    "saranormous",
+    "johncutlefish",
+    "[account-6]",
+    "lennysan",
+    "illscience",
+    "paul_cal",
+    "JorgeCondeBio",
+    "OmerPerchik"
+  ],
+  "readouts": [
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096098501612478659",
+      "label": "announcement 24h verdict",
+      "opened": "2026-09-05T06:50+02:00",
+      "due": "2026-09-06T06:50+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-06T12:13+02:00",
+        "views": 122,
+        "likes": 1,
+        "note": "29h, decay ~3v/h"
+      },
+      "verdict": null,
+      "closed": "2026-09-06T06:09+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096089104635056376",
+      "label": "wall/CRM reply (mattshumer)",
+      "opened": "2026-09-05T06:12+02:00",
+      "due": null,
+      "status": "closed",
+      "last": {
+        "t": "2026-09-05T22:05+02:00",
+        "views": 62,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "floor-walk verified 41@6h50m → 62@15h50m",
+      "closed": "2026-09-05T22:05+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096224966987456518",
+      "label": "[account-2] compaction reply",
+      "opened": "2026-09-05T15:12+02:00",
+      "due": null,
+      "status": "closed",
+      "last": {
+        "t": "2026-09-05T22:05+02:00",
+        "views": 387,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "wiki-class, #2 item ever (387v@6h50m); author silent",
+      "closed": "2026-09-05T22:05+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096314911022346518",
+      "label": "[account-4] latent reply",
+      "opened": "2026-09-05T21:09+02:00",
+      "due": null,
+      "status": "closed",
+      "last": {
+        "t": "2026-09-06T00:10+02:00",
+        "views": 32,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "stall-class (28v@1h52m, 32v@3h); fold slot ≠ distribution on megas",
+      "closed": "2026-09-06T00:10+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096301889239339340",
+      "label": "[account-9] deepagents reply",
+      "opened": "2026-09-05T20:16+02:00",
+      "due": null,
+      "status": "closed",
+      "last": {
+        "t": "2026-09-05T22:05+02:00",
+        "views": 13,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "13v@1h50m, author silent at deadline",
+      "closed": "2026-09-05T23:05+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096194643155124627",
+      "label": "[account-8] limits reply",
+      "opened": "2026-09-05T13:12+02:00",
+      "due": null,
+      "status": "closed",
+      "last": {
+        "t": "2026-09-05T22:05+02:00",
+        "views": 85,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "floor-walk, spent (85v@9h, 0 eng)",
+      "closed": "2026-09-05T22:05+02:00"
+    },
+    {
+      "url": "https://x.com/i/status/2096450478670242098",
+      "label": "diary-ab-1",
+      "opened": "2026-09-06T06:09+02:00",
+      "due": "2026-09-09T07:00+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-06T12:13+02:00",
+        "views": 21,
+        "likes": null,
+        "note": "8h, stall ~1v/h continues"
+      },
+      "verdict": "closed 09-06 without verdict: superseded by the three fixed series (docs/plan-2026-09-1000-followers.md)",
+      "closed": "2026-09-06T11:24+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096542481001095435",
+      "label": "metrics-card",
+      "opened": "2026-09-06T12:14+02:00",
+      "due": "2026-09-07T12:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-07T12:14+02:00",
+        "views": 56,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "t+25h 56v 0L: 3x from hour-1, zero engagement; yesterday's card 55v — flat pattern across cards",
+      "note": "first metrics series card",
+      "closed": "2026-09-07T12:14+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096556845112365234",
+      "label": "take-views",
+      "opened": "2026-09-06T13:12+02:00",
+      "due": "2026-09-07T13:35+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-07T12:14+02:00",
+        "views": 46,
+        "likes": 1,
+        "note": null
+      },
+      "verdict": "t+24h: 51v 1L, ~3x the prior take's 48h pace but same pattern - views without conversation. Question shape on the 0907 take is the live test now",
+      "closed": "2026-09-07T13:09+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096631928178741541",
+      "label": "[account-12]-demo-ci",
+      "opened": "2026-09-06T18:09+02:00",
+      "due": "2026-09-07T18:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-07T18:12+02:00",
+        "views": 176,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "t+24h: 176v 0L, Jerry never answered (fold 16.4k views, he answered nobody). Author-response leg 0-for-3; 09-15 framing stands: reply-first places views, conversations unproven.",
+      "closed": "2026-09-07T18:12+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096677397969899821",
+      "label": "postmortem-card",
+      "opened": "2026-09-06T21:14+02:00",
+      "due": "2026-09-07T21:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-07T18:12+02:00",
+        "views": 42,
+        "likes": 2,
+        "note": "1 repost"
+      },
+      "verdict": "postmortem-card closed t+24h: 46v 2L 1RT — our best-received original class (deadline postmortem); repeat register",
+      "closed": "2026-09-07T21:11+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096723374714057148",
+      "label": "gregkamradt-lookup-timing",
+      "opened": "2026-09-07T00:13+02:00",
+      "due": "2026-09-08T00:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-08T01:15+02:00",
+        "views": 51,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "silent: 51v 0 eng at t+25h; question-reply earned views, no author answer",
+      "closed": "2026-09-08T01:15+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096738064731107730",
+      "label": "[account-12]-port-loss",
+      "opened": "2026-09-07T01:13+02:00",
+      "due": "2026-09-08T01:35+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-08T01:15+02:00",
+        "views": 96,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "closed silent 09-08 02:10: 97v 0L 0R at t+27h; author never engaged. 6th silent close since the announcement; confirms the 09-15 framing (reply-first places views, conversations unproven). MEMORY §2 updated.",
+      "closed": "2026-09-08T02:11+02:00"
+    },
+    {
+      "url": "https://x.com/i/status/2096828122595291241",
+      "label": "metrics-0907",
+      "opened": "2026-09-07T07:09+02:00",
+      "due": "2026-09-08T07:10+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-08T03:11+02:00",
+        "views": 39,
+        "likes": 1,
+        "note": null
+      },
+      "verdict": "44v 1L 0pv @24h — third straight card in the 45-56v band; the first card like came the day the text carried the miss (register > number). Cards place views, not engagement.",
+      "closed": "2026-09-08T06:44+02:00"
+    },
+    {
+      "url": "https://x.com/i/status/2096903926662488241",
+      "label": "take-0907-ratecard",
+      "opened": "2026-09-07T12:10+02:00",
+      "due": "2026-09-08T13:00+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-08T12:11+02:00",
+        "views": 54,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "t+24h: 52v 1L, inside the 42-56v original band, no author reply; price-take register did not break the band",
+      "closed": "2026-09-08T12:11+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2096979164804849763",
+      "label": "gregkamradt-turnbased-control",
+      "opened": "2026-09-07T17:09+02:00",
+      "due": "2026-09-08T17:09+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-08T17:10+02:00",
+        "views": 226,
+        "likes": 1,
+        "note": null
+      },
+      "verdict": "t+24h silent: 226v 1L, +5v in final hour. Placement top-class (our #3 reply) but gregkamradt never engaged. First of the three working-author verdicts: SILENT — 0-for-6 since the announcement.",
+      "closed": "2026-09-08T17:10+02:00"
+    },
+    {
+      "url": "https://x.com/i/status/2097039512874430828",
+      "label": "postmortem-0907-authorsilent",
+      "opened": "2026-09-07T21:11+02:00",
+      "due": "2026-09-08T21:40+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-08T19:09+02:00",
+        "views": 45,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "t+24h 45v 0L, author silent — third honest-miss card inside the 42-56v band, zero cross-band breaks so far; register confirmed in-band, not a band-breaker",
+      "closed": "2026-09-08T21:11+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097070027925078064",
+      "label": "illscience-konami-culturetest",
+      "opened": "2026-09-07T23:12+02:00",
+      "due": "2026-09-08T23:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-08T21:13+02:00",
+        "views": 219,
+        "likes": null,
+        "note": "t+22h, like count unserveable all day, closes 23:15"
+      },
+      "verdict": "223v t+24h, likes unserveable all day (read degraded, closed on views). Author silent. Verdict #2/3 silent: best placement (91v@1h, 222v@24h) earned zero conversation - placement and author engagement are different mechanisms. Checkpoint rule now hinges on a100 (00:20).",
+      "closed": "2026-09-08T23:12+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097085301264953755",
+      "label": "[account-8]-a100-listing",
+      "opened": "2026-09-08T00:11+02:00",
+      "due": "2026-09-09T00:20+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-08T23:12+02:00",
+        "views": 124,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "silent #3/3 - 127v t+24h, likes unserveable; best placement class, author never came; checkpoint rule fires: 09-15 judgment of reply-first rests on placement alone",
+      "closed": "2026-09-09T00:14+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097190372581445672",
+      "label": "metrics-0908-flat3days",
+      "opened": "2026-09-08T07:14+02:00",
+      "due": "2026-09-09T05:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-09T05:10+02:00",
+        "views": 33,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "24h: 33v/0L — flat like the account; card register stays honest-miss only",
+      "note": "honest-miss register again: 0-for-5 author silences named on the card",
+      "closed": "2026-09-09T05:10+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097357511586197922",
+      "label": "illscience-oversold-ownership",
+      "opened": "2026-09-08T18:14+02:00",
+      "due": "2026-09-09T18:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-09T17:13+02:00",
+        "views": 32,
+        "likes": null,
+        "note": "17:10 wake"
+      },
+      "verdict": "notification-touch arm #1: parent liked, author never answered; 34v@24h vs 32v@21h, drift dead. Like on parent did not convert an answer (n=1).",
+      "note": "question-shaped reply, notification-touch like on parent; author-conversation test #2 on illscience tonight alongside ko",
+      "closed": "2026-09-09T18:16+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097402543198319100",
+      "label": "postmortem-0908-silent-crash",
+      "opened": "2026-09-08T21:13+02:00",
+      "due": "2026-09-09T21:40+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-09T20:18+02:00",
+        "views": 47,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null,
+      "note": "ops-miss register: crash left no log, caught 2h later; x-loop now opens with a log-gap check",
+      "closed": "2026-09-09T21:12+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097447904579301565",
+      "label": "caspar-auth-attribution",
+      "opened": "2026-09-09T00:14+02:00",
+      "due": "2026-09-10T00:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-10T00:15+02:00",
+        "views": 115,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "t+24h 115v, flat 3h. Silent close: zero author engagement on the attribution-layer mechanism. Adds to the 0-for-8 placement-without-conversation ledger.",
+      "note": "reply into caspar_br deepagents auth launch ([account-9] RT'd); mechanism: agent-identity-as-audit-trail",
+      "closed": "2026-09-10T00:15+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097477998962229655",
+      "label": "[account-5]-consent-catchall",
+      "opened": "2026-09-09T02:13+02:00",
+      "due": "2026-09-10T02:20+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-10T00:15+02:00",
+        "views": 424,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "428v @ t+24h, plateau since t+22h, 3L total — silent close: [account-5] never engaged. Consent-catchall was the hottest consent reply (331v@6h) but adds 0 author answers to the 0-for-8 ledger.",
+      "closed": "2026-09-10T02:11+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097628534495670490",
+      "label": "take-0909-astra-demand",
+      "opened": "2026-09-09T12:11+02:00",
+      "due": "2026-09-10T02:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-10T00:15+02:00",
+        "views": 33,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "36v @ close — below the 42v original band for the 2nd day: the recalibration trigger fires for the 06:30 reflection. Zero likes, zero profile visits recorded.",
+      "note": "quote of [account-7] demand thread; watch for author answer + fold pickup",
+      "closed": "2026-09-10T02:11+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097704274457149493",
+      "label": "saranormous-compute-paper",
+      "opened": "2026-09-09T17:11+02:00",
+      "due": "2026-09-10T17:45+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-10T12:22+02:00",
+        "views": 411,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "t+24h 411v 0L: placement strong (#4 all-time) but notification-touch arm-2 bought no author answer and 0 likes — touch arms 1-2 both converted zero; conversation remains unproven",
+      "closed": "2026-09-10T17:12+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097720047208681968",
+      "label": "mattshumer-acctest",
+      "opened": "2026-09-09T18:16+02:00",
+      "due": "2026-09-10T18:20+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-10T12:22+02:00",
+        "views": 21,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": null,
+      "closed": "2026-09-10T18:09+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097751069317091572",
+      "label": "[account-11]-consent-two-doors",
+      "opened": "2026-09-09T20:17+02:00",
+      "due": "2026-09-10T20:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-10T12:22+02:00",
+        "views": 643,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "t+24h: 670v 0L 0R, 1 profile visit, no author reply. All-time #1 item (v@1h=378, fastest start ever) in the fold with the named open question — still 0 author answers. 0-for-15 confirmed: placement works, conversion does not ride on replies. Pre-written 09-15 judgment stands.",
+      "note": "mega-thread placement test: 60k-view [account-11] clarification, fold burning; mechanism one-consent-record-two-doors",
+      "closed": "2026-09-10T20:13+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097735023713464394",
+      "label": "[account-9]-harness-recovery",
+      "opened": "2026-09-09T20:17+02:00",
+      "due": "2026-09-10T19:10+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-10T12:22+02:00",
+        "views": 22,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": null,
+      "note": "unattendedness ranking of harness interventions; missed readout add in 19:05 wake",
+      "closed": "2026-09-10T19:09+02:00"
+    },
+    {
+      "url": "https://x.com/i/status/2097764554025365802",
+      "label": "postmortem-0909-renting-audiences",
+      "opened": "2026-09-09T21:12+02:00",
+      "due": "2026-09-10T21:40+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-10T21:14+02:00",
+        "views": 45,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "45v 0L at t+24h — breaks the 30-40 working norm above, third honest-register card above band (46/50/45); recalibration confirmed: the miss is the only original lever",
+      "closed": "2026-09-10T21:14+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097855566974452002",
+      "label": "[account-5]-blender-handoffs",
+      "opened": "2026-09-10T03:14+02:00",
+      "due": "2026-09-11T03:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-11T01:09+02:00",
+        "views": 67,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": null,
+      "closed": "2026-09-11T03:11+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097885843214020657",
+      "label": "paulcal-chilling",
+      "opened": "2026-09-10T06:13+02:00",
+      "due": "2026-09-11T05:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-11T01:09+02:00",
+        "views": 22,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": null,
+      "closed": "2026-09-11T03:11+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097915162606837791",
+      "label": "metrics-0910-best-replies-flat",
+      "opened": "2026-09-10T07:09+02:00",
+      "due": "2026-09-10T19:35+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-10T12:22+02:00",
+        "views": 12,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": null,
+      "closed": "2026-09-10T19:09+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2097993365547577845",
+      "label": "take-0910-consent-docs",
+      "opened": "2026-09-10T12:22+02:00",
+      "due": "2026-09-11T13:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-11T13:11+02:00",
+        "views": 39,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "closed t+27h: 39v, 0L, no author answer — in the 30-40 working band, plain-quote take placed fine but converted nothing; register rule (name the miss) unaffected",
+      "note": "take: correction-reach vs docs-gap concession; plain original, for-the-81 register",
+      "closed": "2026-09-11T13:11+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098127407609692256",
+      "label": "postmortem-0910-win-recap",
+      "opened": "2026-09-10T21:14+02:00",
+      "due": "2026-09-11T21:40+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-11T21:13+02:00",
+        "views": 39,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "t+24h 39v 0L, in the 30-40 band; text self-corrected to the miss register mid-card, so not a clean win-recap control — the win-recap rule stands on the 13v metrics card alone",
+      "closed": "2026-09-11T21:13+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098172327166943297",
+      "label": "gregk-stumpbench-grading",
+      "opened": "2026-09-11T00:11+02:00",
+      "due": "2026-09-12T00:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-12T00:15+02:00",
+        "views": 53,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "53v at t+26h, 0L: question-shape into GregKamradt fold stalled small again — question buys placement not conversation, finding holds",
+      "closed": "2026-09-12T00:15+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098233401719345605",
+      "label": "jerryj-internalize-salience",
+      "opened": "2026-09-11T04:13+02:00",
+      "due": "2026-09-12T04:40+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-12T04:10+02:00",
+        "views": 58,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "58v 0L 0R at t+24h (+6 final day): output-salience thesis placed mid-tier jerryj fold, no author answer, no fold traction",
+      "closed": "2026-09-12T04:10+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098277193491058873",
+      "label": "metrics-0911-zero-conversation",
+      "opened": "2026-09-11T07:09+02:00",
+      "due": "2026-09-12T07:40+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-12T07:11+02:00",
+        "views": 43,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "43v at t+26h (42 at t+24h): second straight miss-register card at the top of the 30-40 band; register rule keeps its streak",
+      "note": "first register-rule metrics card: flat-83 miss + zero-conversation question",
+      "closed": "2026-09-12T07:11+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098368238165930237",
+      "label": "take-0911-codex-deprecation",
+      "opened": "2026-09-11T13:12+02:00",
+      "due": "2026-09-12T13:10+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-12T12:11+02:00",
+        "views": 177,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "fold-riding quote closed 177v@t+30h vs 24-39v for every self-standing take — placement rule confirmed at close",
+      "closed": "2026-09-12T12:11+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098414055924863374",
+      "label": "bento-designwords-diff",
+      "opened": "2026-09-11T16:13+02:00",
+      "due": "2026-09-12T16:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-12T12:11+02:00",
+        "views": 204,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "229v at t+26h, no author answer (fold re-read 16:10, notifications quiet since) — our #2 all-time item and still climbing; preview-vs-prompt diff is the confirmed top mechanism class, named objects beat everything else we ship",
+      "note": "reply into [account-10] design-words feedback-welcome fold; preview-vs-prompt mismatch mechanism",
+      "closed": "2026-09-12T16:13+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098474566825750880",
+      "label": "paulcal-fiction-memorability",
+      "opened": "2026-09-11T20:12+02:00",
+      "due": "2026-09-12T20:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-12T20:09+02:00",
+        "views": 32,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "question-shaped into small paul_cal fold: 32v@t+24h, no author answer, no conversation — small-fold cap class again; mechanism (fiction-beats-real-coverage memorability) is on record",
+      "closed": "2026-09-12T20:09+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098489527312449866",
+      "label": "postmortem-0911-take-rule-break",
+      "opened": "2026-09-11T21:13+02:00",
+      "due": "2026-09-12T21:40+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-12T21:15+02:00",
+        "views": 40,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "40v at t+24h — miss-register postmortem card again at the top of the 30-40 band (46/50/45/39/40 streak); the take-rule framing performed like the register says",
+      "note": "own-rule break card: take rode 522k fold 143v vs 26v self-standing; read for register effect + whether the rule change (",
+      "closed": "2026-09-12T21:15+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098535431373492351",
+      "label": "[account-4]-math-rungs",
+      "opened": "2026-09-12T00:14+02:00",
+      "due": "2026-09-13T00:45+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-13T00:12+02:00",
+        "views": 41,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "41v at t+24h (closed ~25min early at wake end), 1 like, author silent. Second [account-4] stall in a row (latent 32v, this 40v): live fold + an answered open question at placement did not distribute on this mega. Mega slot = variance, not floor; the placement engine keeps needing the mid-tier lane.",
+      "closed": "2026-09-13T00:12+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098640186628321400",
+      "label": "metrics-0912-views-no-follows",
+      "opened": "2026-09-12T07:10+02:00",
+      "due": "2026-09-13T07:12+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-13T07:08+02:00",
+        "views": 39,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "39v@24h, top of the 30-40 norm: lead-with-win pivot still held band, but no like/reply again — register rule unchanged (pure miss stays the only proven outlier)",
+      "closed": "2026-09-13T07:08+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098715652668133869",
+      "label": "take-0912-astra-discovery-loop",
+      "opened": "2026-09-12T12:11+02:00",
+      "due": "2026-09-13T13:20+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-13T13:20+02:00",
+        "views": 46,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "46v @ t+26h: top of the 30-40 working band, but flat slope - views trickled without fold activity. Dead-root quote still reaches band eventually; the live-fold quote (take-0911, 98v@1h) remains the better shape. Liveness gate stands: it buys speed, not band membership.",
+      "closed": "2026-09-13T13:20+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098776478032736463",
+      "label": "paulcal-specificity-data",
+      "opened": "2026-09-12T16:13+02:00",
+      "due": "2026-09-13T16:20+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-13T16:13+02:00",
+        "views": 27,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "27v @ t+24h — below every comparable reply band; thesis-shaped placements into paul_cal are dead (specificity 27v@24h, fiction 31v@43h). Question-shaped works: debunk-method 80v@27h and climbing. Ruling: keep paul_cal, only question-shaped folds.",
+      "closed": "2026-09-13T16:13+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2098852511146782778",
+      "label": "postmortem-0912-fold-liveness",
+      "opened": "2026-09-12T21:15+02:00",
+      "due": "2026-09-13T21:12+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-13T21:15+02:00",
+        "views": 43,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "43v@t+24h top of 30-40 band: the liveness gate naming held (take-0912 lesson stands), but biggest-live-fold quotes cap at band — the 171v take-0911 outlier needed a mechanism nobody had, this had position only",
+      "closed": "2026-09-13T21:15+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099002128660390265",
+      "label": "metrics-0913-decline-zero-conversion",
+      "opened": "2026-09-13T07:08+02:00",
+      "due": "2026-09-14T07:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T07:14+02:00",
+        "views": 60,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "t+24h 60v, plateau above the 30-40 band top; the decline-register card held band top 2 days straight",
+      "closed": "2026-09-14T07:14+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099079870701621446",
+      "label": "take-0913-j0wimo-concession",
+      "opened": "2026-09-13T12:18+02:00",
+      "due": "2026-09-14T13:10+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T12:18+02:00",
+        "views": 57,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "take-0913 quote closed 57v@t+24h — top of take band, riding j0wimo live fold; fold-riding beats self-standing again",
+      "closed": "2026-09-14T12:18+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099093361227354309",
+      "label": "paulcal-debunk-method",
+      "opened": "2026-09-13T13:12+02:00",
+      "due": "2026-09-14T13:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T12:18+02:00",
+        "views": 157,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "paulcal debunk-method closed 157v@t+23h — best peer-fold placement after saranormous pair; question-shape worked, author never answered",
+      "closed": "2026-09-14T12:18+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099157585299382623",
+      "label": "saranormous-wishlist-audit",
+      "opened": "2026-09-13T17:27+02:00",
+      "due": "2026-09-14T17:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T17:18+02:00",
+        "views": 458,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "top reply of sarah's wishlist thread: 458v@24h, far above fold band; author never answered, scott's question was the exchange's tail. Placement-class ceiling again — reach without conversion.",
+      "closed": "2026-09-14T17:18+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099170054734573996",
+      "label": "omerperchik-digest-failure",
+      "opened": "2026-09-13T18:18+02:00",
+      "due": "2026-09-14T16:20+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T16:18+02:00",
+        "views": 41,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "41v@t+24h, in-band; Omer silent, no author answer — digest-failure angle reaches but doesn't convert; closed",
+      "closed": "2026-09-14T16:18+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099184432112341041",
+      "label": "scott-question-answer",
+      "opened": "2026-09-13T19:14+02:00",
+      "due": "2026-09-14T19:05+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T19:16+02:00",
+        "views": 56,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "56v@t+24h (+6 over last 2h); scott never returned after his follow-up question — inbound-question lane bought reach, not conversation; one answer was enough for him",
+      "closed": "2026-09-14T19:16+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099198942718103686",
+      "label": "zaid-harness-proof",
+      "opened": "2026-09-13T20:11+02:00",
+      "due": "2026-09-14T20:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T20:12+02:00",
+        "views": 54,
+        "likes": 1,
+        "note": null
+      },
+      "verdict": "54v@t+24h, the reply that started the 11-exchange Zaid thread — conversation class works for conversation, not reach; lane closed on his agreement.",
+      "closed": "2026-09-14T20:12+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099214107110948885",
+      "label": "postmortem-0913-mega-rule-break",
+      "opened": "2026-09-13T21:15+02:00",
+      "due": "2026-09-14T21:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T21:17+02:00",
+        "views": 64,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "64v@t+24h, above the 40-62 postmortem band; miss-register card holds as the one outlier class",
+      "closed": "2026-09-14T21:18+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099214760835223656",
+      "label": "illscience-multiplayer-inside",
+      "opened": "2026-09-13T21:15+02:00",
+      "due": "2026-09-14T21:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T21:17+02:00",
+        "views": 193,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "author-solicited mega fold: 193v@t+24h, 0L 0 replies — solicitation buys reach, not conversation",
+      "closed": "2026-09-14T21:18+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099229310292742573",
+      "label": "zaid-log-audit",
+      "opened": "2026-09-13T22:15+02:00",
+      "due": "2026-09-14T22:00+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T21:17+02:00",
+        "views": 63,
+        "likes": 1,
+        "note": null
+      },
+      "verdict": "63v@t+24h 1L — Zaid thread tail; conversation lane trades reach for talk, confirmed again",
+      "closed": "2026-09-14T21:18+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099229434830065731",
+      "label": "saran-harness-vouch",
+      "opened": "2026-09-13T22:15+02:00",
+      "due": "2026-09-14T22:05+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T21:17+02:00",
+        "views": 481,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "481v@t+24h — day-2 top item from an author-active fold; reach engine, 0 answers",
+      "closed": "2026-09-14T21:18+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099245291073368413",
+      "label": "zaid-reopen-question",
+      "opened": "2026-09-13T23:17+02:00",
+      "due": "2026-09-14T23:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T23:14+02:00",
+        "views": 64,
+        "likes": 1,
+        "note": null
+      },
+      "verdict": "author converged on our due-time mechanism (answered + liked 5 of ours); 64v@24h conversation tail, engagement spilled onto our other posts - thread done",
+      "closed": "2026-09-14T23:14+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099259883535159792",
+      "label": "zaid-append-only-4th",
+      "opened": "2026-09-14T00:15+02:00",
+      "due": "2026-09-15T00:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T00:14+02:00",
+        "views": 74,
+        "likes": 0,
+        "note": null
+      },
+      "verdict": "Thread converged: Zaid adopted the due-time mechanism ('A due time forces the confrontation'), liked 5 of ours. 74v@t+27h, 4 exchanges, 0 new followers - conversation yes, conversion still no.",
+      "closed": "2026-09-15T00:14+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099276167798825078",
+      "label": "keith-peer-usecase",
+      "opened": "2026-09-14T01:17+02:00",
+      "due": "2026-09-15T01:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T01:13+02:00",
+        "views": 71,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "71v@t+24h — near top of the reply band for a peer answer in a live fold (saran harness); no author engagement, no conversion. Peer class keeps buying reach, still not answers.",
+      "closed": "2026-09-15T01:13+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099320446554452162",
+      "label": "[account-5]-commit-rewriter-guardrail",
+      "opened": "2026-09-14T04:16+02:00",
+      "due": "2026-09-15T04:20+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-14T07:14+02:00",
+        "views": 42,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "t+24h 42v, top of band, fold fed it all day then stopped; mid-tier reply working as designed",
+      "closed": "2026-09-14T07:14+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099335504139370687",
+      "label": "jerry-one-assistant-counterex",
+      "opened": "2026-09-14T05:13+02:00",
+      "due": "2026-09-15T03:25+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T10:16+02:00",
+        "views": 139,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "139v@t+30h, 0 conv — peer answer held mid-band, jerry never answered; the one-assistant counterexample angle is spent",
+      "closed": "2026-09-15T10:16+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099364682532323606",
+      "label": "metrics-0914-conversion-gap",
+      "opened": "2026-09-14T07:14+02:00",
+      "due": "2026-09-15T07:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T10:16+02:00",
+        "views": 64,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "64v@t+33h — miss-register card closed top of band again (win-recap control died at 13v); register rule holds, n=4",
+      "closed": "2026-09-15T10:16+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099364804615938064",
+      "label": "scoreboard-0914-pinned",
+      "opened": "2026-09-14T07:14+02:00",
+      "due": "2026-09-15T07:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T10:16+02:00",
+        "views": 66,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "66v@t+33h pinned — the conversion engine itself reaches 66 people; door problem (postmortem-0914 thesis) confirmed by its own numbers",
+      "closed": "2026-09-15T10:16+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099395360393171448",
+      "label": "thso-remove-prompts",
+      "opened": "2026-09-14T09:10+02:00",
+      "due": "2026-09-15T09:10+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T10:16+02:00",
+        "views": 26,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "26v@t+26h — mega announcement fold, author absent from fold: retired mega-placement class confirmed again; stayed eligible-side today and dropped [account-11] DevDay for the same reason",
+      "note": "answer to author question-call in 30k-view fold; asking evidence: root IS the solicitation",
+      "closed": "2026-09-15T10:16+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099440790720115028",
+      "label": "take-0914-mobqueue-fold",
+      "opened": "2026-09-14T12:11+02:00",
+      "due": "2026-09-15T13:20+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T13:10+02:00",
+        "views": 43,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "43v@t+25h vs scoreboard-poll 40v: the missed-take card matched the poll despite the quote-less self-standing miss register; pair closes together, both below the 30-40 working norm floor only marginally",
+      "note": "self-standing take; quote branch died on fold convergence (jerry fold live but mechanism converged)",
+      "closed": "2026-09-15T13:10+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099471458187587971",
+      "label": "take-0914-scoreboard-poll",
+      "opened": "2026-09-14T14:16+02:00",
+      "due": "2026-09-15T14:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T13:10+02:00",
+        "views": 40,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "40v@t+25h: poll format no lift vs sibling take (43v); polls keep underperforming plain takes on this spine - deprioritize poll takes until the follower base is 3x",
+      "note": "first x poll publish; scoreboard judgment ask",
+      "closed": "2026-09-15T13:10+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099487237993803883",
+      "label": "zaid-correction-layer",
+      "opened": "2026-09-14T15:17+02:00",
+      "due": "2026-09-15T15:20+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T16:14+02:00",
+        "views": 51,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "51v @t+26h, 1L - ordinary band; correction-layer angle did not travel beyond its fold (closure claimed 15:05 log, state missed it - completed 16:05)",
+      "closed": "2026-09-15T16:14+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099487422543192427",
+      "label": "saran-milestone-question",
+      "opened": "2026-09-14T15:17+02:00",
+      "due": "2026-09-15T15:20+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T02:12+02:00",
+        "views": 819,
+        "likes": 2,
+        "note": null
+      },
+      "verdict": "884v @t+26h, 2L, 0RT - best item in account history; born in a peer conversation (saranormous harness thread), question-shaped, author never replied; peer-fold question replies are our top format",
+      "closed": "2026-09-15T15:12+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099501393526624276",
+      "label": "zaid-judgment-split",
+      "opened": "2026-09-14T16:12+02:00",
+      "due": "2026-09-15T16:12+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T02:12+02:00",
+        "views": 45,
+        "likes": 1,
+        "note": null
+      },
+      "verdict": "60v @t+26h, 1L - the 4-exchange Zaid conversation stayed 46-63v as a set; conversation depth did not widen reach - partner thread, not a placement play",
+      "closed": "2026-09-15T16:14+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099517111403999360",
+      "label": "zaid-verdict-record",
+      "opened": "2026-09-14T17:14+02:00",
+      "due": "2026-09-15T17:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T17:13+02:00",
+        "views": 66,
+        "likes": 1,
+        "note": null
+      },
+      "verdict": "66v @t+24h, top of the Zaid verdict set (49-66v): conversation depth again did not scale reach; partner thread, not placement",
+      "closed": "2026-09-15T17:13+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099531969352659178",
+      "label": "zaid-silence-closes",
+      "opened": "2026-09-14T18:13+02:00",
+      "due": "2026-09-15T18:10+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T18:17+02:00",
+        "views": 52,
+        "likes": 1,
+        "note": null
+      },
+      "verdict": "52v @t+24h, 1L 1R: the verdict/silence exchange held the Zaid band (49-66v) and closed the 4-exchange arc; conversation depth again did not scale reach (n=4 partner pattern)",
+      "note": "exchange #10: forcing function for verdicts; does his design have a nag",
+      "closed": "2026-09-15T18:17+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099547020989968684",
+      "label": "jerry-ocr-trigger",
+      "opened": "2026-09-14T19:13+02:00",
+      "due": "2026-09-15T20:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T20:13+02:00",
+        "views": 37,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "36-37v@24h, below the ~50v band; jerry vendor-metric lane stays dead (dnr reason holds)",
+      "closed": "2026-09-15T20:13+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099576974238724587",
+      "label": "postmortem-0914-reach-door",
+      "opened": "2026-09-14T21:13+02:00",
+      "due": "2026-09-15T21:30+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-15T21:11+02:00",
+        "views": 57,
+        "likes": 1,
+        "note": null
+      },
+      "verdict": "postmortem-0914-reach-door: 57v@t+26h, inside the postmortem band (45-62) — the reach-door miss framed as numbers again; band holds, no outlier either way",
+      "note": "card: 744v bought 1pv/0 follows; identity-clause change",
+      "closed": "2026-09-15T21:11+02:00"
+    },
+    {
+      "url": "https://x.com/i/status/2099652037642158193",
+      "label": "greg-timeline-2yr",
+      "opened": "2026-09-15T02:12+02:00",
+      "due": "2026-09-16T03:15+02:00",
+      "status": "closed",
+      "last": {
+        "t": "2026-09-16T00:13+02:00",
+        "views": 549,
+        "likes": null,
+        "note": null
+      },
+      "verdict": "Mega-fold carry: 549->555v t+24->27h, plateaued; author replied in-fold (the solicitation effect). Best reply of the 09-14/15 cohort.",
+      "note": "reply into GregKamradt 2yr o1 reminder thread; conversation class, author live",
+      "closed": "2026-09-16T03:15+02:00"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099773575200731532",
+      "label": "metrics-0915-outage-invisible",
+      "opened": "2026-09-15T10:14+02:00",
+      "due": "2026-09-16T10:30+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 59,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099863400306110599",
+      "label": "hw-memory-readcost",
+      "opened": "2026-09-15T16:15+02:00",
+      "due": "2026-09-16T16:20+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 245,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099878603479519326",
+      "label": "zaid-harness-substrate",
+      "opened": "2026-09-15T17:14+02:00",
+      "due": "2026-09-16T17:15+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 29,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null,
+      "note": "answer to Zaid's harness question in [account-9] memory fold; coding-harness-as-memory-substrate"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099878736464113699",
+      "label": "zaid-trace-halfverifiable",
+      "opened": "2026-09-15T17:14+02:00",
+      "due": "2026-09-16T17:30+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 31,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null,
+      "note": "trace-sharing admission in ClementDelangue fold; numbers-verified words-composed honesty register"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099894922631336339",
+      "label": "saran-buildfree-check",
+      "opened": "2026-09-15T18:17+02:00",
+      "due": "2026-09-16T18:30+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 90,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null,
+      "note": "placement reply into sarah guo live essay fold; mechanism: build-free prices the check"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099924036281102440",
+      "label": "zaid-publicrecompute",
+      "opened": "2026-09-15T20:13+02:00",
+      "due": "2026-09-16T20:20+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 26,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099938497704431832",
+      "label": "pm-0915-visits-out",
+      "opened": "2026-09-15T21:11+02:00",
+      "due": "2026-09-16T21:30+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 16,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null,
+      "note": "first card without the visits number (in-thread commitment); checks if the recomputable-only register moves the postmort"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099938655087317456",
+      "label": "zaid-format-enforcement",
+      "opened": "2026-09-15T21:11+02:00",
+      "due": "2026-09-16T21:30+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 43,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null,
+      "note": "4th exchange, new mechanism (enforcement in the format) + question shape; Zaid answered every prior exchange"
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2099984418475495533",
+      "label": "ospina-tortoise-writedenial",
+      "opened": "2026-09-16T02:10+02:00",
+      "due": "2026-09-17T00:11+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 19,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2100030164360999371",
+      "label": "zaid-claimashook-test",
+      "opened": "2026-09-16T03:15+02:00",
+      "due": "2026-09-17T03:20+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 15,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2100045871488372798",
+      "label": "ospina-graph-beliefdeath",
+      "opened": "2026-09-16T04:17+02:00",
+      "due": "2026-09-17T04:15+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 12,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2100046047741464771",
+      "label": "jerry-sdk-explainable",
+      "opened": "2026-09-16T04:17+02:00",
+      "due": "2026-09-17T04:20+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 40,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2100059814520930443",
+      "label": "kamath-auth-ownsession",
+      "opened": "2026-09-16T05:14+02:00",
+      "due": "2026-09-17T05:15+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 44,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2100089474340266232",
+      "label": "metrics-0916-tableonly",
+      "opened": "2026-09-16T07:13+02:00",
+      "due": "2026-09-17T08:00+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 7,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null
+    },
+    {
+      "url": "https://x.com/GCBullGlasses/status/2100090690357096520",
+      "label": "jerry-grok-outside-path",
+      "opened": "2026-09-16T07:13+02:00",
+      "due": "2026-09-17T07:15+02:00",
+      "status": "open",
+      "last": {
+        "t": "2026-09-16T09:15+02:00",
+        "views": 16,
+        "likes": null,
+        "note": null
+      },
+      "verdict": null
+    }
+  ],
+  "do_not_reply": {
+    "[account-3]": {
+      "reason": "no 2nd reply in gumclaw/founder-handover thread unless he engages; fresh threads OK",
+      "since": "2026-09-04T00:09+02:00"
+    },
+    "[account-1]": {
+      "reason": "BLOCKED BY AUTHOR (X modal 'L autore ti ha bloccato', 01:42 09-06, screenshot logs/diagnostics/reply:no-modal-20260906-014211.png) — all threads, permanent; reads still serve; keep as read-only observation target; no workarounds",
+      "since": "2026-09-06T01:44+02:00"
+    },
+    "[account-4]": {
+      "reason": "no 2nd reply in contract/HITL/latent (closed 23:05 09-05) unless he engages; fresh threads OK",
+      "since": "2026-09-05T23:05+02:00"
+    },
+    "[account-5]": {
+      "reason": "no 2nd reply in navier-stokes unless he engages; fresh threads OK",
+      "since": "2026-09-09T02:13+02:00"
+    },
+    "[account-6]": {
+      "reason": "no 2nd reply in meter/wall; max 2 threads/day (3rd banned); fresh threads OK",
+      "since": "2026-09-05T06:12+02:00"
+    },
+    "[account-7]": {
+      "reason": "no 2nd reply in cutoff/TBench; do-not-hit DevDay mega; fresh threads OK after cap reset",
+      "since": "2026-09-05T00:08+02:00"
+    },
+    "[account-8]": {
+      "reason": "limits reply spent; only if he engages, with a NEW mechanism",
+      "since": "2026-09-05T22:05+02:00"
+    },
+    "[account-2]": {
+      "reason": "BLOCKED BY AUTHOR (X modal 'L autore ti ha bloccato', 03:07 09-06, screenshot logs/diagnostics/reply:blocked-by-author-20260906-030722.png, issue #19); fresh thread dead too; read-only target; second author block in 36h — watch for a wave",
+      "since": "2026-09-06T03:07+02:00"
+    },
+    "[account-9]": {
+      "reason": "deepagents closed 23:05 09-05, silent; only if he engages",
+      "since": "2026-09-05T23:05+02:00"
+    },
+    "[account-10]": {
+      "reason": "astra-cleanup thread reply-restricted (dead for us); a fresh thread stays eligible",
+      "since": "2026-09-05T14:05+02:00"
+    },
+    "[account-11]": {
+      "reason": "do-not-hit (TBench used, cutoff used)",
+      "since": "2026-09-05T03:00+02:00"
+    },
+    "[account-12]": {
+      "reason": "vendor-metric posts off-limits (used 2×); fresh non-vendor post eligible",
+      "since": "2026-09-04T00:00+02:00"
+    }
+  },
+  "used_angles": [
+    "Fable effort-ladder nonlinearity",
+    "Cursor×OpenAI fall-out",
+    "cost-per-run (3×)",
+    "publish-compounding",
+    "defaults-chart",
+    "buyer-metric-vs-vendor-metric (2×: cheatyyyy, tomas)",
+    "'stuck' handoff",
+    "privacy halo",
+    "benchmark-refusal",
+    "failure visibility / model attribution (tomas)",
+    "quality-bar codification (sarah guo)",
+    "failure-cost pricing / silent failures (tomas 4th)",
+    "browser-as-task-workaround / agent-click permissions ([account-7])",
+    "version-skew state migration / demo-vs-product (mattshumer world)",
+    "post-purchase failure surface / returns (mattshumer Grok)",
+    "contract-shaping ([account-4])",
+    "defaults-beat-features / already-open distribution (probe original)",
+    "MCP real-vs-scrape query-shape / scrapers enumerate, agents shop ([account-1])",
+    "job-reqs-as-leading-indicator ([account-10]; enrollment-confounder off-limits)",
+    "HITL rubber-stamp decay ([account-4]; HITL-normativity saturated)",
+    "founder-handover load-bearing-vs-ceremony ([account-3])",
+    "internal-tools-teams-are-factories / name-what-repeats ([account-1])",
+    "meter-enforcement-location / self-reported-budget (mattshumer)",
+    "discovery-selection-effect / finding-the-lazy-ones ([account-5] wiki)",
+    "right-to-halt / andon stop-button ([account-1]; QA-line-missing is Chinmay's)",
+    "two-audience-launch / reset-is-retention-cutoff-is-acquisition ([account-7])",
+    "comparability-requires-both-harnesses / unnamed-#2-stack ([account-7])",
+    "same-lab-catalog-vs-cross-lab-bakeoff / OpenAI-SKU-grid ([account-5] pelican)",
+    "wall-is-stale-work-software / CRM-still-looks-like-2023 (mattshumer)",
+    "bot-filter-as-hidden-job-of-price / agent-toll-humanness-fee ([account-1] nomads)",
+    "fresh-vs-failed-population eval / restart-with-notes-read ([account-2] compaction)",
+    "agent-authored-forgetting / who-curates-the-summary incentive ([account-9] deepagents)",
+    "chain-of-thought-as-audit-trail / what-replaces-the-postmortem ([account-4] latent)",
+    "demo-regeneration-as-release-gate / agent-made-demo-as-regression-test ([account-12])",
+    "turn-based-control-condition / isolate-one-skill-per-game (GregKamradt)",
+    "rewrite-math-counts-build-not-yearly-ownership (illscience oversold-notes)",
+    "agent-identity-as-audit-trail / attribution layer (caspar_br auth launch)",
+    "consent-by-catch-all / precision-makes-it-refusable, missing refusal UI ([account-5] navier-stokes)",
+    "prepay-is-papered-good-time-help-isnt (saranormous compute)",
+    "one-consent-record-two-doors / duplicated-surfaces-erode-trust ([account-11] privacy thread)",
+    "pipeline-hand-off-friction / which-broke-first ([account-5] blender-viewer)",
+    "training-data-chilling / public-drafts-go-private-kill-the-external-signal (paul_cal contamination)",
+    "grading-unanswerables / refusal-scored-wrong-selects-confabulation (GregKamradt stumpbench)",
+    "output-salience / mark-the-load-bearing-sentence ([account-12] verbose-vs-dense)",
+    "preview-vs-prompt mismatch / nothing-checks-they-match diff ([account-10] design words)",
+    "provenance-vs-memorability crux / fiction-wins-the-attention-market (paul_cal)",
+    "chess-ladder-rungs / math training-ground-is-production-ground",
+    "specificity-not-civility / attack-is-criticism-that-names-a-person, own-data 5x (paul_cal)",
+    "compaction-loss-invisible-from-inside / harness-keeps-the-diff ([account-9] harness fold, Dusan question)",
+    "debunk-method-question / ask-for-the-verification-path (paul_cal grader)",
+    "literal-proof-floor / caps-beat-common-sense ([account-4] dangerous-level)",
+    "shared-nothing guess / clean-per-request kills works-in-dev-leaks-in-prod (jarred Bun teaser)",
+    "assistant-seat-answer / the-audit-ask-beats-the-wishlist (saranormous solicitation)",
+    "digest-must-cost-something / public-miss-log-as-belief-engine (OmerPerchik digest ask)",
+    "harness-vs-wrapper-proof / failures-specific-enough-to-publish-nightly (zaid domain-harness fold)",
+    "agent-inside-human-chats-zero-a2a / multiplayer-from-inside (illscience solicitation)",
+    "log-falsifiability / audit-the-miss-not-the-publication (byzaidrais)",
+    "operator-vouch-n1 / governance-beats-orchestration (saranormous harness q)",
+    "reopen-on-recurrence / a fix that has to ship twice was never a fix (byzaidrais log thread, 3rd exchange)",
+    "append-only-logs / the-rewrite-is-written-by-the-failed-judge",
+    "use-case-decider / what-it-does-wrong-at-3am (peer answer in saran harness fold)",
+    "rewrite-permission-guardrail / author-never-runs-own-rewrite ([account-5] commit-rewriter)",
+    "externalized-state-assistant / reimport-cost-becomes-session-end-write-down ([account-12] one-assistant thread)",
+    "correction-layer-promotion / append-only-visible-not-findable (byzaidrais live fold)",
+    "delivery-milestone-backlog / transformation-metric-is-queue-cleared (saranormous deal fold)",
+    "reads-before-writes cost split / templated-vs-personalized CTR discriminator (paul_cal spam econ)",
+    "banned-list receipts / enforcement-beats-prediction on tic clocks",
+    "harness-as-memory-substrate / the coding harness shipped the honesty (diffs, commits) before the memory existed (byzaidrais hw-memory)",
+    "trace-half-verifiable / numbers written by the actions, words composed after — the words are the part to audit (byzaidrais clement-disclosure fold)",
+    "build-cost-zero-prices-the-check / margin-moves-to-verification, lived receipts into a guessing fold (saranormous essay)",
+    "machine-printed-numbers / audit-surface-is-the-prose, starts at the first adjective (zaid audit-rule exchange)",
+    "public-recompute bar / an unauditable number is an adjective with digits (visits out of the card)",
+    "claim-as-hook / a table that takes no position gives no reason to open it (byzaidrais card test)",
+    "page-as-integration / outside-path-walls, API buys reliability not reach ([account-12] grok bot)",
+    "needed-pace / the-table-prints-its-own-miss"
+  ],
+  "deadlines": [
+    {
+      "label": "launch-0916",
+      "at": "2026-09-16T14:00+02:00",
+      "note": "external launch day (owner posts HN/Reddit/IH/PH); launch mode 48h: wake every 15 min, replies up to the floor cap, notifications first"
+    },
+    {
+      "label": "checkpoint-0918",
+      "at": "2026-09-18T09:00+02:00",
+      "note": "pivot: >=130 followers (supersedes >=350/relaunch)"
+    },
+    {
+      "label": "checkpoint-0922",
+      "at": "2026-09-22T09:00+02:00",
+      "note": "pivot: >=220 followers"
+    },
+    {
+      "label": "checkpoint-0929",
+      "at": "2026-09-29T09:00+02:00",
+      "note": "pivot: >=400 else full strategy review with owner; relaunch verdict moved here"
+    },
+    {
+      "label": "scoreboard-refresh-0921",
+      "at": "2026-09-21T07:30+02:00",
+      "note": "weekly pinned scoreboard refresh (series skill step 4): x delete the 0914 scoreboard post, post fresh card, x pin it"
+    },
+    {
+      "label": "zaid-reply-retry",
+      "at": "2026-09-16T10:05+02:00",
+      "note": "reply once to byzaidrais 2100108535849775358, gate-passed draft; refresh views+hours first; issue #22 no-modal (inline composer vs modal), 2 fails 09-16 09:17 = Floor stop, next-wake retry per protoco"
+    },
+    {
+      "label": "postmortem-visits-miss",
+      "at": "2026-09-16T21:00+02:00",
+      "note": "07:30 card still printed profile_visits:5 despite 09-15 public kill; template fixed 09:20 (needed/day replaced it); tonight 21:30 card names this miss"
+    }
+  ],
+  "megas": [
+    "karpathy",
+    "[account-4]",
+    "[account-7]",
+    "[account-1]",
+    "shreyas",
+    "[account-5]",
+    "jarredsumner",
+    "[account-2]",
+    "[account-8]",
+    "[account-12]",
+    "GregKamradt",
+    "[account-9]",
+    "[account-10]",
+    "[account-3]",
+    "saranormous",
+    "johncutlefish",
+    "[account-6]",
+    "lennysan"
+  ],
+  "target_meta": {
+    "illscience": {
+      "added": "2026-09-06T19:10+02:00",
+      "followers": 33518,
+      "replies_7d": 9,
+      "distinct_7d": 9,
+      "why": "quoted by lennysan for a real product point (company building as loops); checking the 5k-80k answers-strangers rule",
+      "our_replies": 3,
+      "author_replies": 0
+    },
+    "karpathy": {
+      "our_replies": 0,
+      "author_replies": 0
+    },
+    "[account-4]": {
+      "our_replies": 2,
+      "author_replies": 0
+    },
+    "[account-7]": {
+      "our_replies": 1,
+      "author_replies": 0
+    },
+    "[account-1]": {
+      "our_replies": 0,
+      "author_replies": 0
+    },
+    "shreyas": {
+      "our_replies": 0,
+      "author_replies": 0
+    },
+    "[account-5]": {
+      "our_replies": 3,
+      "author_replies": 0
+    },
+    "jarredsumner": {
+      "our_replies": 1,
+      "author_replies": 0
+    },
+    "[account-2]": {
+      "our_replies": 0,
+      "author_replies": 0
+    },
+    "[account-8]": {
+      "our_replies": 1,
+      "author_replies": 0
+    },
+    "[account-12]": {
+      "our_replies": 6,
+      "author_replies": 0
+    },
+    "GregKamradt": {
+      "our_replies": 4,
+      "author_replies": 0
+    },
+    "[account-9]": {
+      "our_replies": 2,
+      "author_replies": 0
+    },
+    "[account-10]": {
+      "our_replies": 1,
+      "author_replies": 0
+    },
+    "[account-3]": {
+      "our_replies": 0,
+      "author_replies": 0
+    },
+    "saranormous": {
+      "our_replies": 5,
+      "author_replies": 0
+    },
+    "johncutlefish": {
+      "our_replies": 0,
+      "author_replies": 0
+    },
+    "[account-6]": {
+      "our_replies": 1,
+      "author_replies": 0
+    },
+    "lennysan": {
+      "our_replies": 0,
+      "author_replies": 0
+    },
+    "harleyfoote_": {
+      "added": "2026-09-07T07:13+02:00",
+      "followers": 13615,
+      "replies_7d": 10,
+      "distinct_7d": 8,
+      "why": "substantive reply in [account-5] coding-agents-spend fold (09-06): spend spikes when people stop watching, mechanism-shaped take",
+      "dropped": "2026-09-07T07:14+02:00"
+    },
+    "paul_cal": {
+      "added": "2026-09-07T07:13+02:00",
+      "followers": 6597,
+      "replies_7d": 9,
+      "distinct_7d": 9,
+      "why": "substantive reply in [account-5] coding-agents-spend fold (09-06): swarm-across-accounts question",
+      "our_replies": 6,
+      "author_replies": 0
+    },
+    "JorgeCondeBio": {
+      "added": "2026-09-08T08:12+02:00",
+      "followers": 15751,
+      "replies_7d": 7,
+      "distinct_7d": 6,
+      "why": "a16z bio investor, engaged by illscience in the konami fold; investor POV lane like saranormous",
+      "our_replies": 0,
+      "author_replies": 0
+    },
+    "OmerPerchik": {
+      "added": "2026-09-13T18:16+02:00",
+      "followers": 8949,
+      "replies_7d": 13,
+      "distinct_7d": 13,
+      "why": "founder (Todoist) answering a solicitation fold with concrete product asks; our peer-reply data point landed there",
+      "our_replies": 1,
+      "author_replies": 0
+    }
+  }
+}
